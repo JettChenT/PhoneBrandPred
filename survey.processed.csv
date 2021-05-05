@@ -1,59 +1,59 @@
 ,brand,mod,prc,sat,prefBrand,prefMod,prefPrc,st,ResMem,ResPric,ResStorage,ResOS,ResBrand,ResPub,ResScrRes,ResRefRate,ResScrSize,ResBattery,ResOther
-0,Apple,iPhone XR,,1,Apple,iPhone pro,,4,0,1,0,1,1,0,0,0,1,0,0.0
-1,Apple,12,,2,Apple,12pm,1299,3,0,1,1,1,0,0,1,1,0,0,0.0
-2,other,idn,5.0,1,8848,8848太监手机,188888,9,0,0,0,0,1,0,0,0,1,0,0.0
-3,Apple,iPhone 11 promax,,2,Apple,12 pro,,6,1,1,1,1,1,0,0,0,1,1,0.0
-4,8848,the most expensive one (standard cell for every successful man),998000000.0,1,8848,the most expensive one of the most expensive ones,"99,998,800,000",9,0,1,0,0,1,0,0,0,0,0,0.0
-5,Apple,iPhone 12,799.0,1,Apple,iPhone 12 Pro Max,1099,9,1,0,1,0,1,0,0,0,1,1,0.0
-6,other,123456789,10000.0,5,other,123,20000,1,1,1,1,1,1,0,1,1,1,1,1.0
-7,Apple,iPhone X,483.0,2,Apple,iPhone 12 Pro ,1399,8,0,1,1,1,1,0,0,0,0,0,0.0
-8,Google Pixel,Google pixel 4a,349.0,1,Google Pixel,Pixel 5,699,7,1,1,1,1,0,0,1,1,1,1,0.0
-9,Apple,iphone xr,650.0,1,Apple,iphone 13,900,8,0,1,1,0,1,0,0,0,0,1,0.0
-10,Samsung,Galaxy 4,600.0,2,Samsung,i'm not picky,200,1,0,1,0,0,0,0,0,0,0,1,0.0
-11,Google Pixel,Pixel 3a,399.0,1,Google Pixel,Undecided,,2,0,1,0,1,1,0,0,0,0,1,0.0
-12,other,3t,399.0,1,Google Pixel,Pixel 5,699,4,0,1,1,1,0,0,1,0,1,1,0.0
-13,Apple,IPhone XS plus,1200.0,1,Apple,iPhone XS plus,1200.00,9,0,0,0,1,0,0,1,1,0,1,0.0
-14,Apple,iPhone 11 Pro Max,1099.0,1,Apple,iPhone 11 Pro Max,1099,6,1,0,0,1,0,0,0,0,1,1,0.0
-15,Samsung,galaxy note,900.0,1,Samsung,Galaxy note,"since it's not listed below, the MOST important feature for my phone is the S-pen",1,0,0,0,1,0,0,1,1,1,0,0.0
-16,other,fairphone 3,499.0,1,other,fairphone,499,4,0,0,0,0,0,0,0,0,0,0,1.0
-17,other,I do not use a cellphone,20.0,1,other,any V-Tech ,20,1,0,1,0,0,0,0,0,0,0,0,1.0
-18,Samsung,Samsung Galaxy S9,,3,Samsung,Samsung Galaxy S20,,5,0,1,1,1,0,0,0,0,0,1,0.0
-19,Apple,iPhone X,1000.0,1,Apple,iPhone ,1000,4,0,0,1,1,0,0,0,0,0,0,0.0
-20,Apple,iPhone 12 Pro Max,1099.0,1,Apple,iPhone 12 Pro Max,1099,8,0,1,0,1,0,0,1,0,1,1,0.0
-21,XiaoMi,RedMi 7,170.0,1,Huawei,P40,877,2,1,1,1,1,0,0,1,0,1,1,0.0
-22,Google Pixel,pixel 3,110.0,1,other,none,cheap as possible while meeting my specs,4,1,1,1,0,0,0,1,0,1,1,1.0
-23,Apple,iPhone 11,699.0,1,Apple,iPhone 11,699,5,0,1,0,1,1,0,0,0,0,0,0.0
-24,Samsung,Samsung Galaxy S7,200.0,1,Huawei,p30,,7,1,1,1,1,0,0,1,0,1,1,0.0
-25,Huawei,P30 Lite,320.0,2,other,No idea,,9,1,1,0,1,0,0,0,0,0,0,1.0
-26,XiaoMi,mi 9 lite,200.0,2,other,fairphone,400,3,0,1,1,0,0,0,0,0,0,1,1.0
-27,Google Pixel,4a 5g,350.0,2,Samsung,No preference,300,2,0,1,1,1,0,0,0,0,1,1,0.0
-28,Apple,8?,750.0,1,Apple,Whatever the newest iPhone is at cricket when mine does or breaks,Idk about 750 also I think,3,1,0,1,1,0,0,0,0,0,0,0.0
-29,Apple,iPhone 7,650.0,2,Apple,iPhone 7,,3,1,1,1,1,0,0,1,0,1,0,0.0
-30,Google Pixel,Pixel 4,400.0,1,Google Pixel,Pixel 5,700,9,1,0,1,1,0,0,0,0,0,1,0.0
-31,Samsung,Galaxy a10s,,1,Samsung,Galaxy a10s,,7,1,0,1,1,0,0,1,0,1,1,0.0
-32,Apple,iPhone XS,1000.0,1,Apple,iPhone 12,700,4,1,0,1,1,1,0,0,0,1,1,1.0
-33,Samsung,Samsung Galaxy a10s,134.99,2,Samsung,Samsung Galaxy s20 ultra 5G,682.10,4,0,1,0,1,0,0,0,0,1,1,1.0
-34,Apple,XR,1000.0,1,Apple,11 or higher ,,9,1,0,1,1,0,0,0,0,1,1,0.0
-35,other,Land Rover Explore,550.0,2,other,Don´t have one,,9,0,0,1,1,0,0,1,0,0,1,1.0
-36,other,Samsung,25.0,1,Samsung,idk,50,1,0,1,0,0,0,0,0,0,0,1,1.0
-37,Samsung,Galaxy s9,,2,Samsung,N/a,,7,1,0,1,0,0,0,0,0,0,1,1.0
-38,Apple,iPhone SE 2,400.0,2,Apple,iPhone SE,400,1,0,1,0,0,0,0,0,0,1,1,1.0
-39,Oppo,Reno 3,450.0,2,Google Pixel,Don't know,Don't know ,4,1,1,1,1,1,0,1,0,1,1,0.0
-40,Apple,11,,1,Apple,11,,4,1,1,1,0,0,0,0,0,0,1,1.0
-41,Apple,iPhone XR,1200.0,2,Apple,iPhone 12,,5,1,0,0,1,1,0,0,0,0,1,0.0
-42,Apple,iPhone 12,1000.0,1,Apple,iPhone 12 Pro,,7,0,0,1,1,1,0,0,0,1,1,0.0
-43,Apple,iPhone 8+,800.0,2,Apple,don’t have one,,2,0,0,1,0,0,0,0,0,0,1,0.0
-44,Samsung,Note 20 Ultra,1300.0,1,Samsung,Galaxy S21 Ultra,1250,3,1,1,1,1,0,0,1,1,1,1,0.0
-45,Apple,SE,500.0,1,Apple,12,999,5,0,1,1,0,1,0,0,0,1,1,0.0
-46,Apple,iphone se 2020,399.0,1,Apple,iphone 11,699,4,0,1,1,0,1,0,0,0,1,1,0.0
-47,Apple,iphone 7 ,649.0,1,Apple,iphone 8,799,5,0,1,1,0,0,0,0,0,0,1,0.0
-48,Samsung,Samsung Galaxy s10e,400.0,1,Samsung,Samsung galaxy s21,800,5,1,1,1,0,0,0,0,0,1,1,0.0
-49,Samsung,s8,900.0,1,Samsung,s21,1200,2,0,1,1,1,0,0,0,0,1,1,0.0
-50,Samsung,Note 9,,1,Samsung,Z fold 2,Expensive af,6,1,1,1,1,0,0,1,1,1,1,0.0
-51,Huawei,Not sure,1010833.0,2,Google Pixel,Not sure,Not sure,4,1,1,1,1,0,0,0,0,1,1,0.0
-52,Google Pixel,Pixel 2 XL,800.0,1,Google Pixel,Pixel 5,Not sure,6,1,1,1,1,0,0,0,1,1,1,0.0
-53,Google Pixel,Pixel 3a,300.0,1,Google Pixel,Pixel 4,I don't know,5,1,1,1,1,0,0,0,0,1,0,1.0
-54,other,X3 NFC,270.0,2,Apple,Latest iphone,1000 usd,9,1,1,1,1,0,0,1,0,1,1,0.0
+0,Apple,iPhone XR,,1,Apple,iPhone pro,,4,0,1,0,1,1,0,0,0,1,0,0
+1,Apple,12,,2,Apple,12pm,1299,3,0,1,1,1,0,0,1,1,0,0,0
+2,other,idn,5,1,8848,8848太监手机,188888,9,0,0,0,0,1,0,0,0,1,0,0
+3,Apple,iPhone 11 promax,,2,Apple,12 pro,,6,1,1,1,1,1,0,0,0,1,1,0
+4,8848,the most expensive one (standard cell for every successful man),998000000,1,8848,the most expensive one of the most expensive ones,"99,998,800,000",9,0,1,0,0,1,0,0,0,0,0,0
+5,Apple,iPhone 12,799,1,Apple,iPhone 12 Pro Max,1099,9,1,0,1,0,1,0,0,0,1,1,0
+6,other,123456789,10000,5,other,123,20000,1,1,1,1,1,1,0,1,1,1,1,1
+7,Apple,iPhone X,483,2,Apple,iPhone 12 Pro ,1399,8,0,1,1,1,1,0,0,0,0,0,0
+8,Google Pixel,Google pixel 4a,349,1,Google Pixel,Pixel 5,699,7,1,1,1,1,0,0,1,1,1,1,0
+9,Apple,iphone xr,650,1,Apple,iphone 13,900,8,0,1,1,0,1,0,0,0,0,1,0
+10,Samsung,Galaxy 4,600,2,Samsung,i'm not picky,200,1,0,1,0,0,0,0,0,0,0,1,0
+11,Google Pixel,Pixel 3a,399,1,Google Pixel,Undecided,,2,0,1,0,1,1,0,0,0,0,1,0
+12,other,3t,399,1,Google Pixel,Pixel 5,699,4,0,1,1,1,0,0,1,0,1,1,0
+13,Apple,IPhone XS plus,1200,1,Apple,iPhone XS plus,1200,9,0,0,0,1,0,0,1,1,0,1,0
+14,Apple,iPhone 11 Pro Max,1099,1,Apple,iPhone 11 Pro Max,1099,6,1,0,0,1,0,0,0,0,1,1,0
+15,Samsung,galaxy note,900,1,Samsung,Galaxy note,"since it's not listed below, the MOST important feature for my phone is the S-pen",1,0,0,0,1,0,0,1,1,1,0,0
+16,other,fairphone 3,499,1,other,fairphone,499,4,0,0,0,0,0,0,0,0,0,0,1
+17,other,I do not use a cellphone,20,1,other,any V-Tech ,20,1,0,1,0,0,0,0,0,0,0,0,1
+18,Samsung,Samsung Galaxy S9,,3,Samsung,Samsung Galaxy S20,,5,0,1,1,1,0,0,0,0,0,1,0
+19,Apple,iPhone X,1000,1,Apple,iPhone ,1000,4,0,0,1,1,0,0,0,0,0,0,0
+20,Apple,iPhone 12 Pro Max,1099,1,Apple,iPhone 12 Pro Max,1099,8,0,1,0,1,0,0,1,0,1,1,0
+21,XiaoMi,RedMi 7,170,1,Huawei,P40,877,2,1,1,1,1,0,0,1,0,1,1,0
+22,Google Pixel,pixel 3,110,1,other,none,cheap as possible while meeting my specs,4,1,1,1,0,0,0,1,0,1,1,1
+23,Apple,iPhone 11,699,1,Apple,iPhone 11,699,5,0,1,0,1,1,0,0,0,0,0,0
+24,Samsung,Samsung Galaxy S7,200,1,Huawei,p30,,7,1,1,1,1,0,0,1,0,1,1,0
+25,Huawei,P30 Lite,320,2,other,No idea,,9,1,1,0,1,0,0,0,0,0,0,1
+26,XiaoMi,mi 9 lite,200,2,other,fairphone,400,3,0,1,1,0,0,0,0,0,0,1,1
+27,Google Pixel,4a 5g,350,2,Samsung,No preference,300,2,0,1,1,1,0,0,0,0,1,1,0
+28,Apple,8?,750,1,Apple,Whatever the newest iPhone is at cricket when mine does or breaks,Idk about 750 also I think,3,1,0,1,1,0,0,0,0,0,0,0
+29,Apple,iPhone 7,650,2,Apple,iPhone 7,,3,1,1,1,1,0,0,1,0,1,0,0
+30,Google Pixel,Pixel 4,400,1,Google Pixel,Pixel 5,700,9,1,0,1,1,0,0,0,0,0,1,0
+31,Samsung,Galaxy a10s,,1,Samsung,Galaxy a10s,,7,1,0,1,1,0,0,1,0,1,1,0
+32,Apple,iPhone XS,1000,1,Apple,iPhone 12,700,4,1,0,1,1,1,0,0,0,1,1,1
+33,Samsung,Samsung Galaxy a10s,134.99,2,Samsung,Samsung Galaxy s20 ultra 5G,682.1,4,0,1,0,1,0,0,0,0,1,1,1
+34,Apple,XR,1000,1,Apple,11 or higher ,,9,1,0,1,1,0,0,0,0,1,1,0
+35,other,Land Rover Explore,550,2,other,Don´t have one,,9,0,0,1,1,0,0,1,0,0,1,1
+36,other,Samsung,25,1,Samsung,idk,50,1,0,1,0,0,0,0,0,0,0,1,1
+37,Samsung,Galaxy s9,,2,Samsung,N/a,,7,1,0,1,0,0,0,0,0,0,1,1
+38,Apple,iPhone SE 2,400,2,Apple,iPhone SE,400,1,0,1,0,0,0,0,0,0,1,1,1
+39,Oppo,Reno 3,450,2,Google Pixel,Don't know,Don't know ,4,1,1,1,1,1,0,1,0,1,1,0
+40,Apple,11,,1,Apple,11,,4,1,1,1,0,0,0,0,0,0,1,1
+41,Apple,iPhone XR,1200,2,Apple,iPhone 12,,5,1,0,0,1,1,0,0,0,0,1,0
+42,Apple,iPhone 12,1000,1,Apple,iPhone 12 Pro,,7,0,0,1,1,1,0,0,0,1,1,0
+43,Apple,iPhone 8+,800,2,Apple,don’t have one,,2,0,0,1,0,0,0,0,0,0,1,0
+44,Samsung,Note 20 Ultra,1300,1,Samsung,Galaxy S21 Ultra,1250,3,1,1,1,1,0,0,1,1,1,1,0
+45,Apple,SE,500,1,Apple,12,999,5,0,1,1,0,1,0,0,0,1,1,0
+46,Apple,iphone se 2020,399,1,Apple,iphone 11,699,4,0,1,1,0,1,0,0,0,1,1,0
+47,Apple,iphone 7 ,649,1,Apple,iphone 8,799,5,0,1,1,0,0,0,0,0,0,1,0
+48,Samsung,Samsung Galaxy s10e,400,1,Samsung,Samsung galaxy s21,800,5,1,1,1,0,0,0,0,0,1,1,0
+49,Samsung,s8,900,1,Samsung,s21,1200,2,0,1,1,1,0,0,0,0,1,1,0
+50,Samsung,Note 9,,1,Samsung,Z fold 2,Expensive af,6,1,1,1,1,0,0,1,1,1,1,0
+51,Huawei,Not sure,1010833,2,Google Pixel,Not sure,Not sure,4,1,1,1,1,0,0,0,0,1,1,0
+52,Google Pixel,Pixel 2 XL,800,1,Google Pixel,Pixel 5,Not sure,6,1,1,1,1,0,0,0,1,1,1,0
+53,Google Pixel,Pixel 3a,300,1,Google Pixel,Pixel 4,I don't know,5,1,1,1,1,0,0,0,0,1,0,1
+54,other,X3 NFC,270,2,Apple,Latest iphone,1000 usd,9,1,1,1,1,0,0,1,0,1,1,0
 0,Apple,iphone12,8999,1,Apple,iPhone12 pro max,,10,1,1,1,1,1,1,1,1,1,1,
 1,Apple,iPhone 12 pro,一万不到,2,Apple,12 pro max,,4,1,0,1,1,0,0,1,1,1,1,
 2,Apple,iphone 11 pro,(空),1,other,0,,10,0,1,0,0,1,1,0,0,1,0,

@@ -6,19 +6,18 @@ def catg(lst):
     dct = defaultdict(int)
     for c in lst:
         dct[c]+=1
-    ld,lc = [],[]
+    l = []
     for k in dct.keys():
-        lc.append(k)
-        ld.append(dct[k])
+        l.append((dct[k],k))
+    l.sort()
+    l.reverse()
+    lc = [k[1] for k in l]
+    ld = [k[0] for k in l]
     return ld,lc
 
 df = pd.read_csv("survey.processed.csv")
 clm = "brand"
 ccnt,ccrand = catg(df[clm])
-# if "other" in ccrand:
-#     n = ccrand.index("other")
-#     ccnt.pop(n)
-#     ccrand.pop(n)
 
 fig, ax = plt.subplots(figsize=(6,6))
 ax.pie(ccnt, labels = ccrand,autopct='%.0f%%')
